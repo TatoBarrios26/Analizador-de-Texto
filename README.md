@@ -1,2 +1,8 @@
-# Analizador-de-Texto
-Script que analiza un archivo .txt y devuelve, cantidad de palabras, palabra más común, longitud promedio de palabras.
+# Analizador de Texto (Python)
+Analiza un archivo `.txt` y muestra estadísticas.
+
+## Uso
+```bash
+python analizador.py
+```
+Luego, ingresar el nombre del archivo de texto.
